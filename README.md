@@ -7,7 +7,7 @@ btpanel-v7.7.0-backup  官方原版v7.7.0版本面板备份
 curl -sSO https://raw.githubusercontent.com/lioumin1/btpanel-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
 ```
 
-#一键破解：
+# 一键破解：
 
 ```bash
 curl -sSO https://raw.githubusercontent.com/lioumin1/btpanel-v7.7.0/main/happy/happy_panel.sh && bash happy_panel.sh.sh
